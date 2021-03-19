@@ -1,4 +1,11 @@
-# fundamentals-of-python
-- variables
-- looping
+# Fundamentals of Python
+- Variables
+  - Primitive Data types
+    - Integer
+    - Float
+    - String
+    - Boolean
+  - Conversions
+- Looping
+  - For loop
   - fibonacci sequence
